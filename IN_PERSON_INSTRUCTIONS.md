@@ -23,12 +23,13 @@ As you review the code, think about it from a high level. Consider the following
 - State Management
 - Lifecycle Awareness
 - Testability
-- Robustness & Error Handling
-
-## What NOT to Focus On
+## What NOT to Focus on
 To help you save time and focus your efforts, please do not worry about the following:
 
 - Building a complete UI or fixing XML layouts.
+- Writing a fully refactored version of the code before the interview.
+- Using the absolute latest libraries from Google (e.g., Jetpack Compose, Hilt). 
+    While you're welcome to discuss them as part of a potential solution, the conversation will be focused on the underlying architectural principles, not specific library choices.
 - Writing a fully refactored version of the code before the interview.
 - Using the absolute latest libraries from Google (e.g., Jetpack Compose, Hilt). While you're welcome to discuss them as part of a potential solution, the conversation will be focused on the underlying architectural principles, not specific library choices.
 
