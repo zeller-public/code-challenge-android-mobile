@@ -32,6 +32,7 @@ To help you save time and focus your efforts, please do not worry about the foll
 - Writing a fully refactored version of the code before the interview.
 - Using the absolute latest libraries from Google (e.g., Jetpack Compose, Hilt). 
     While you're welcome to discuss them as part of a potential solution, the conversation will be focused on the underlying architectural principles, not specific library choices.
+
 ## Questions?
 The discussion will be a collaborative, white-boarding style conversation with a Tech Lead. 
 Your thought process and ability to articulate (trade-offs, best practice, prior experience, etc.) are what we're most interested in.
