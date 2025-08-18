@@ -23,6 +23,8 @@ As you review the code, think about it from a high level. Consider the following
 - State Management
 - Lifecycle Awareness
 - Testability
+- Robustness & Error Handling
+
 ## What NOT to Focus on
 To help you save time and focus your efforts, please do not worry about the following:
 
