@@ -1,4 +1,6 @@
-# Android Coding Challenge
+# Take Home Coding Challenge
+
+Use the instructions below if you have been asked to complete the Take Home Coding Challenge.
 
 ## Scenario
 Imagine you have just joined a mobile team that is currently working on a banking application.
