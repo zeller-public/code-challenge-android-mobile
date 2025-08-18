@@ -16,7 +16,7 @@ During the interview, we will talk through the code together and explore how you
 This is not a pass/fail coding test. The goal is not to exhaustively criticise this sample, or to have you deliver a perfect re-write on the spot. 
 Instead, we want to use this code as a starting point for a conversation about modern Android development practices, architectural principles, and trade-offs.
 
-## What we're looking for
+## What We're Looking for
 As you review the code, think about it from a high level. Consider the following aspects:
 
 - Separation of Concerns
