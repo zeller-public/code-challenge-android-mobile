@@ -3,7 +3,8 @@
 Use the instructions below if you have been invited to an In-Person Code Review Interview.
 
 ## Scenario
-This project represents a simple banking application. It allows a user to see a balance, deposit funds, and withdraw funds.
+This project contains a simple banking application. 
+It allows a user to view their balance, deposit funds, and withdraw funds.
 
 ## Your Task
 Please take some time to review the provided code before our interview. There is no need to write or refactor any code beforehand. Simply come prepared to discuss it.
