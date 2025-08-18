@@ -1,6 +1,6 @@
-# In Person Code Review Interview
+# In-Person Code Review Interview
 
-Use the instructions below if you have been invited to an In Person Code Review Interview. 
+Use the instructions below if you have been invited to an In-Person Code Review Interview.
 
 ## Scenario
 This project represents a simple banking application. It allows a user to see a balance, deposit funds, and withdraw funds.
