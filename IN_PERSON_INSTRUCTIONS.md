@@ -7,9 +7,10 @@ This project contains a simple banking application.
 It allows a user to view their balance, deposit funds, and withdraw funds.
 
 ## Your Task
-Please take some time to review the provided code before our interview. There is no need to write or refactor any code beforehand. Simply come prepared to discuss it.
+Please take some time to review the provided code before your interview. If possible, run the app yourself and explore its functionality.
+There is no need to write or refactor any code beforehand. Simply come prepared to discuss it.
 
-During the interview, we will talk through the code together and explore how you might evolve it into a more robust, scalable, and testable feature.
+During the interview, we will talk through the code together and explore how you might evolve it to support robust, scalable, and testable features.
 
 ## Expectations
 This is not a pass/fail coding test. The goal is not to find bugs or to have you write a perfect solution on the spot. Instead, we want to use this code as a starting point for a conversation about modern Android development practices, architectural principles, and trade-offs.
