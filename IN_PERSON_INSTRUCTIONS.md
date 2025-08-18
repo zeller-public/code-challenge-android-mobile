@@ -13,7 +13,8 @@ There is no need to write or refactor any code beforehand. Simply come prepared 
 During the interview, we will talk through the code together and explore how you might evolve it to support robust, scalable, and testable features.
 
 ## Expectations
-This is not a pass/fail coding test. The goal is not to find bugs or to have you write a perfect solution on the spot. Instead, we want to use this code as a starting point for a conversation about modern Android development practices, architectural principles, and trade-offs.
+This is not a pass/fail coding test. The goal is not to exhaustively criticise this sample, or to have you deliver a perfect re-write on the spot. 
+Instead, we want to use this code as a starting point for a conversation about modern Android development practices, architectural principles, and trade-offs.
 
 ## What we're looking for
 As you review the code, think about it from a high level. Consider the following aspects:
