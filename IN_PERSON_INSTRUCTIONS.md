@@ -40,7 +40,3 @@ Your thought process and ability to articulate (trade-offs, best practice, prior
 If you have any questions, please don't hesitate to send us an e-mail at tim@myzeller.com
 
 Good luck and happy coding!
-
-If you have any questions, please don't hesitate to send us an e-mail at tim@myzeller.com
-
-Good luck and happy coding!
